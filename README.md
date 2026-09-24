@@ -1,6 +1,5 @@
 # Cloud-Threat-Detection (AWS - Splunk)
 
-Phase 0 to 6 plan 
 
 Phase 0 — Setup & Safety
 
